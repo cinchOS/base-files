@@ -1,0 +1,4 @@
+DISTRIB_ID=cinchOS
+DISTRIB_RELEASE=1.0
+DISTRIB_CODENAME=sapphire
+DISTRIB_DESCRIPTION="cinchOS (development branch)"
